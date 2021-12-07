@@ -1,6 +1,5 @@
 Demo 1
-
-Introduction to docker cli
+ntroduction to docker cli
 
 View the Docker version and commands
 
